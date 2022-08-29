@@ -1,2 +1,2 @@
-# laravel-question-and-answer scerrnshoot in pdf.
-laravel-question-and-answer scerrnshoot in pdf for intern.
+# laravel-question-and-answer sceernshots in pdf.
+laravel-question-and-answer sceernshots in pdf for intern.
